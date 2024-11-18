@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Hazhir, I am an IT student in TIU. 
-- 👀 I’m interested in pretty much everything. 
+- 👀 I lOVE PHP. 
 - 🌱 I’m currently in slumber. 
  
 
